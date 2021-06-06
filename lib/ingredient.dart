@@ -4,7 +4,7 @@ import 'package:food_app/fake_data.dart';
 import 'food.dart';
 
 class Ingredient extends StatelessWidget {
-  //Hello
+  //Hello world
   Food food;
 
   Ingredient({this.food});
